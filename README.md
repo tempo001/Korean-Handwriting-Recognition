@@ -5,7 +5,7 @@
 > 실시간 한글 필기체 정보를 입력 받아 흘림체를 포함한 한글 필기체 글자 하나를 인식하는 자바기반 GUI 프로그램, 핵심 알고리즘은 논문 두세 편을 참고하여 구현
 
 ## 시연 영상
-`시연 영상1` : <https://www.youtube.com/watch?v=3UoUnyWYk0k>
+`시연 영상1` : <https://www.youtube.com/watch?v=3UoUnyWYk0k>  
 `시연 영상2` : <https://www.youtube.com/watch?v=_tPfyUpuRsg>
 
 
